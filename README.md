@@ -10,7 +10,7 @@
 |---|---|
 | **Organization** | Bharat Nirman Labs, IIT Kanpur |
 | **Mentors** | Gurmeet · Pushpendra |
-| **Duration** | June 2026 – Present |
+| **Duration** | May 2026 – Present |
 | **Track** | NLP / Large Language Models / Hallucination Detection |
 | **Target Venue** | ACL 2026 Student Research Workshop |
 
